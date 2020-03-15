@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\NamedPipeConsumer\NamedPipeConsumer\bin\Debug\NamedPipeConsumer.exe.config
+C:\Users\User\source\repos\NamedPipeConsumer\NamedPipeConsumer\bin\Debug\NamedPipeConsumer.exe
+C:\Users\User\source\repos\NamedPipeConsumer\NamedPipeConsumer\bin\Debug\NamedPipeConsumer.pdb
+C:\Users\User\source\repos\NamedPipeConsumer\NamedPipeConsumer\obj\Debug\NamedPipeConsumer.csprojAssemblyReference.cache
+C:\Users\User\source\repos\NamedPipeConsumer\NamedPipeConsumer\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\NamedPipeConsumer\NamedPipeConsumer\obj\Debug\App.g.cs
+C:\Users\User\source\repos\NamedPipeConsumer\NamedPipeConsumer\obj\Debug\NamedPipeConsumer_MarkupCompile.cache
+C:\Users\User\source\repos\NamedPipeConsumer\NamedPipeConsumer\obj\Debug\NamedPipeConsumer_MarkupCompile.lref
+C:\Users\User\source\repos\NamedPipeConsumer\NamedPipeConsumer\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\NamedPipeConsumer\NamedPipeConsumer\obj\Debug\NamedPipeConsumer.g.resources
+C:\Users\User\source\repos\NamedPipeConsumer\NamedPipeConsumer\obj\Debug\NamedPipeConsumer.Properties.Resources.resources
+C:\Users\User\source\repos\NamedPipeConsumer\NamedPipeConsumer\obj\Debug\NamedPipeConsumer.csproj.GenerateResource.cache
+C:\Users\User\source\repos\NamedPipeConsumer\NamedPipeConsumer\obj\Debug\NamedPipeConsumer.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\NamedPipeConsumer\NamedPipeConsumer\obj\Debug\NamedPipeConsumer.exe
+C:\Users\User\source\repos\NamedPipeConsumer\NamedPipeConsumer\obj\Debug\NamedPipeConsumer.pdb

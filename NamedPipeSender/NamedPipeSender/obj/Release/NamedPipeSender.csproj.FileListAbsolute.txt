@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\NamedPipeSender\NamedPipeSender\bin\Release\NamedPipeSender.exe.config
+C:\Users\User\source\repos\NamedPipeSender\NamedPipeSender\bin\Release\NamedPipeSender.exe
+C:\Users\User\source\repos\NamedPipeSender\NamedPipeSender\bin\Release\NamedPipeSender.pdb
+C:\Users\User\source\repos\NamedPipeSender\NamedPipeSender\obj\Release\MainWindow.g.cs
+C:\Users\User\source\repos\NamedPipeSender\NamedPipeSender\obj\Release\App.g.cs
+C:\Users\User\source\repos\NamedPipeSender\NamedPipeSender\obj\Release\NamedPipeSender_MarkupCompile.cache
+C:\Users\User\source\repos\NamedPipeSender\NamedPipeSender\obj\Release\NamedPipeSender_MarkupCompile.lref
+C:\Users\User\source\repos\NamedPipeSender\NamedPipeSender\obj\Release\MainWindow.baml
+C:\Users\User\source\repos\NamedPipeSender\NamedPipeSender\obj\Release\NamedPipeSender.g.resources
+C:\Users\User\source\repos\NamedPipeSender\NamedPipeSender\obj\Release\NamedPipeSender.Properties.Resources.resources
+C:\Users\User\source\repos\NamedPipeSender\NamedPipeSender\obj\Release\NamedPipeSender.csproj.GenerateResource.cache
+C:\Users\User\source\repos\NamedPipeSender\NamedPipeSender\obj\Release\NamedPipeSender.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\NamedPipeSender\NamedPipeSender\obj\Release\NamedPipeSender.exe
+C:\Users\User\source\repos\NamedPipeSender\NamedPipeSender\obj\Release\NamedPipeSender.pdb
+C:\Users\User\source\repos\NamedPipeSender\NamedPipeSender\obj\Release\NamedPipeSender.csprojAssemblyReference.cache

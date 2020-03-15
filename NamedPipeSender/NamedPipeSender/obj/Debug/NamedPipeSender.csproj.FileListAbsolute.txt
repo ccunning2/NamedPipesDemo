@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\NamedPipeSender\NamedPipeSender\bin\Debug\NamedPipeSender.exe.config
+C:\Users\User\source\repos\NamedPipeSender\NamedPipeSender\bin\Debug\NamedPipeSender.exe
+C:\Users\User\source\repos\NamedPipeSender\NamedPipeSender\bin\Debug\NamedPipeSender.pdb
+C:\Users\User\source\repos\NamedPipeSender\NamedPipeSender\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\NamedPipeSender\NamedPipeSender\obj\Debug\App.g.cs
+C:\Users\User\source\repos\NamedPipeSender\NamedPipeSender\obj\Debug\NamedPipeSender_MarkupCompile.cache
+C:\Users\User\source\repos\NamedPipeSender\NamedPipeSender\obj\Debug\NamedPipeSender_MarkupCompile.lref
+C:\Users\User\source\repos\NamedPipeSender\NamedPipeSender\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\NamedPipeSender\NamedPipeSender\obj\Debug\NamedPipeSender.g.resources
+C:\Users\User\source\repos\NamedPipeSender\NamedPipeSender\obj\Debug\NamedPipeSender.Properties.Resources.resources
+C:\Users\User\source\repos\NamedPipeSender\NamedPipeSender\obj\Debug\NamedPipeSender.csproj.GenerateResource.cache
+C:\Users\User\source\repos\NamedPipeSender\NamedPipeSender\obj\Debug\NamedPipeSender.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\NamedPipeSender\NamedPipeSender\obj\Debug\NamedPipeSender.exe
+C:\Users\User\source\repos\NamedPipeSender\NamedPipeSender\obj\Debug\NamedPipeSender.pdb
+C:\Users\User\source\repos\NamedPipeSender\NamedPipeSender\obj\Debug\NamedPipeSender.csprojAssemblyReference.cache
